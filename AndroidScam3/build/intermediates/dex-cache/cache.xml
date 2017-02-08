@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\MetARVRse\Android Projects\AndroidScam3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="35e66113a532f934aecfe29a133a158b9f931177">
+        <dex dex="D:\MetARVRse\Android Projects\AndroidScam3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e328d2cfccd97d2ba6d8b618addc1832b532ce91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MetARVRse\Android Projects\AndroidScam3\app\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7dca6db41779fb6c313278e5805a6ae6dc499e1f">
+        <dex dex="D:\MetARVRse\Android Projects\AndroidScam3\app\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_a6fcb84aaf1e86c66bee3f92048ebee187665c7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MetARVRse\Android Projects\AndroidScam3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6488724d9afccb07dfd878926aa5afd6acba6fc0">
+        <dex dex="D:\MetARVRse\Android Projects\AndroidScam3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_540ca303afa8965ec4fe2dd0b2b52983d0f24621\classes.dex" />
+    </item>
+
+</items>

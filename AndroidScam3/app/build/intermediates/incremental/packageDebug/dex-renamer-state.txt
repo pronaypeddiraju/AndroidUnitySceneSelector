@@ -1,0 +1,7 @@
+#Wed Feb 08 12:03:31 IST 2017
+base.0=D\:\\MetARVRse\\Android Projects\\AndroidScam3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e328d2cfccd97d2ba6d8b618addc1832b532ce91
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\MetARVRse\\Android Projects\\AndroidScam3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_540ca303afa8965ec4fe2dd0b2b52983d0f24621\\classes.dex
+base.1=D\:\\MetARVRse\\Android Projects\\AndroidScam3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_540ca303afa8965ec4fe2dd0b2b52983d0f24621
+file.0=D\:\\MetARVRse\\Android Projects\\AndroidScam3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e328d2cfccd97d2ba6d8b618addc1832b532ce91\\classes.dex
